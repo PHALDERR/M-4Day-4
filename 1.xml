@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<studentdata>
+<students>
+<Name>Pritha Halder</Name>
+<Age>22</Age>
+<RollNo>35</RollNo>
+<subjects>
+<Subject>Mathematics</Subject>
+<Subject>Physics</Subject>
+</subjects>
+<students>
+
+<students>
+<Name>Shaheer Seikh</Name>
+<Age>25</Age>
+<RollNo>45</RollNo>
+<subjects>
+<Subject>Biology</Subject>
+<Subject>Chemistry</Subject>
+</subjects>
+</students>
+
+</studentdata>
